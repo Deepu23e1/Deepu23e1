@@ -1,6 +1,6 @@
 - 👋 Hi, I’m deepesh
 - 👀 I’m interested in ...programing language and solve queries
-- 🌱 I’m currently learning ...react js react native node js javascript
+- 🌱 I’m currently learning ...react js react native node js javascript express js
 - 📫 How to reach me @dpal34036@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... i still learning some more features on github
